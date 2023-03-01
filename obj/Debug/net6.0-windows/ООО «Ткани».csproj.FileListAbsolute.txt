@@ -1,0 +1,104 @@
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\ООО «Ткани».exe
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\ООО «Ткани».deps.json
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\ООО «Ткани».runtimeconfig.json
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\ООО «Ткани».dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\ООО «Ткани».pdb
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\10a\source\repos\ООО «Ткани»\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».csproj.AssemblyReference.cache
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани»_MarkupCompile.cache
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани»_MarkupCompile.lref
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».g.resources
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».AssemblyInfoInputs.cache
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».AssemblyInfo.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».csproj.CoreCompileInputs.cache
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».csproj.CopyComplete
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».dll
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\refint\ООО «Ткани».dll
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».pdb
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани».genruntimeconfig.cache
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ref\ООО «Ткани».dll
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\Windows\Authorization.g.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\Windows\Authorization.baml
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\App.baml
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\ООО «Ткани»_Content.g.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\Windows\ShowListProducts.g.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\Windows\ShowListProducts.baml
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\UserControls\ProductsControl.g.cs
+C:\Users\10a\source\repos\ООО «Ткани»\obj\Debug\net6.0-windows\UserControls\ProductsControl.baml
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\ООО «Ткани».exe
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\ООО «Ткани».deps.json
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\ООО «Ткани».runtimeconfig.json
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\ООО «Ткани».dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\ООО «Ткани».pdb
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\ОО рыбалка\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\UserControls\ProductsControl.g.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\Windows\Authorization.g.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\Windows\ShowListProducts.g.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани»_Content.g.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани»_MarkupCompile.cache
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани»_MarkupCompile.lref
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\UserControls\ProductsControl.baml
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\Windows\Authorization.baml
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\Windows\ShowListProducts.baml
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».g.resources
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».AssemblyInfo.cs
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».csproj.CopyComplete
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».dll
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\refint\ООО «Ткани».dll
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».pdb
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ООО «Ткани».genruntimeconfig.cache
+C:\Users\User\Desktop\ОО рыбалка\obj\Debug\net6.0-windows\ref\ООО «Ткани».dll
